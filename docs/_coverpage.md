@@ -7,6 +7,7 @@
 
 > Simulation Core for the NIH SPARC
 
+- This is a demo!!!
 - Pipeline Based
 - Extendable
 - Interconnected to DAT- and MAP-core
