@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/osparc-black.svg)
 
-# osparc-simcore<small>docs</small>
+# simcore<small>docs</small>
 
 > Simulation Core for the NIH SPARC
 
@@ -12,4 +12,4 @@
 
 [GitHub](https://github.com/ITISFoundation/osparc-docs)
 [simcore.io](https://simcore.io)
-[Get Started](#executive-summary)
+[Get Started](#introduction)
